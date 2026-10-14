@@ -25,7 +25,6 @@ This project predicts credit score categories using the **K-Nearest Neighbors (K
 
 - `knn1.ipynb` — Complete code, preprocessing, training, evaluation, and predictions.
 - `README.md` — Project documentation.
-- `submission.csv` — Generated Kaggle predictions.
 - `video`
 
 ## Author
